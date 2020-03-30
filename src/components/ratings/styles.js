@@ -19,7 +19,7 @@ export const Container = styled.div`
       color: ${props => props.starColorDisabled};
       font-size: ${props => props.starSize};
       position: relative;
-      text-shadow: 0px 1px 0 #a2a2a2;
+      /* text-shadow: 0px 1px 0 #a2a2a2; */
       
       &-top {
         font-size: ${props => props.starSize};
